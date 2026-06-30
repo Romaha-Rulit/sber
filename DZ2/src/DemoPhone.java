@@ -20,6 +20,8 @@ public class DemoPhone {
         System.out.println(phone2);
         System.out.println("##########");
         System.out.println(phone3);
+        System.out.println("#######");
+        System.out.println(phone1.getNumber());
 
     }
 }
