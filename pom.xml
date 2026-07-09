@@ -57,5 +57,6 @@
         <module>dz6-reflection</module>
         <module>dz7-serialization</module>
         <module>dz1</module>
+        <module>dz8</module>
     </modules>
 </project>
