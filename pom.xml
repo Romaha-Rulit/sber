@@ -58,5 +58,6 @@
         <module>dz7-serialization</module>
         <module>dz1</module>
         <module>dz8</module>
+        <module>dz9</module>
     </modules>
 </project>
